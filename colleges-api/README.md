@@ -384,11 +384,4 @@ State: Tamil Nadu
 ]
 ```
 
-##Contributers
-* [Arun ( Lead. Coordinator )](https://github.com/ArunKumarSS)
-* [Jacob Samro](https://github.com/JacobSamro)
-* [Dhinakaran](https://github.com/DhinakaranSDK)
-
-
-Project Developed at Center of Excellence, SriGuru Institute of Technology
 
