@@ -74,7 +74,7 @@ const collegeStates=async(req,res)=>{
 
 	// }
 
-	console.log(result)
+	// console.log(result)
 
 	res.send(JSON.stringify(result));
 }
@@ -159,9 +159,6 @@ const allDistricts=async(req,res)=>{
 				result.push(colleges[i][5]);
 
 			}		
-
-			
-
 		}
 	}
 
